@@ -1,0 +1,42 @@
+newmtl Model001_Material001
+map_Kd Nier_Body_D.png
+map_bump Nier_Body_n.png
+
+newmtl Model001_Material002
+map_Kd Nier_Face_D.png
+map_bump Nier_Face_n.png
+
+newmtl Model001_Material003
+map_Kd Nier_Body_D.png
+map_bump Nier_Body_n.png
+
+newmtl Model001_Material004
+map_Kd Nier_Body_D.png
+map_bump Nier_Body_n.png
+
+newmtl Model001_Material005
+map_Kd Nier_Body_D.png
+map_bump Nier_Body_n.png
+
+newmtl Model001_Material006
+map_Kd Nier_Body_D.png
+map_bump Nier_Body_n.png
+
+newmtl Model001_Material007
+map_Kd Nier_Eye_M.png
+map_bump Nier_Eye_n_flat.png
+
+newmtl Model001_Material008
+map_Kd Nier_Hair_D.png
+map_bump Nier_Hair_n2.png
+
+newmtl Model001_Material009
+map_Kd Nier_Hair_D.png
+map_bump Nier_Hair_n2.png
+
+newmtl Model001_Material010
+map_Kd Nier_Hair_D.png
+
+newmtl Model001_Material011
+map_Kd Nier_Hair_D.png
+
