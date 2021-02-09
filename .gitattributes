@@ -3,3 +3,4 @@
 Multimedia[[:space:]]Production[[:space:]]I[[:space:]]-[[:space:]]Final[[:space:]]Project.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4unitypackage filter=lfs diff=lfs merge=lfs -text
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
